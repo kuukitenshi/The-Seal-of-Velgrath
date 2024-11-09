@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: a7e7515cb3378e854a3f0d015726270f
+  - enabled: 1
+    path: Assets/Scenes/Basement/Basement.unity
+    guid: 54e32a6a80196414fb50cf52afd14171
+  - enabled: 1
+    path: Assets/Scenes/SchoolInsideEntrance/SchoolInsideEntrance.unity
+    guid: 8d4168803220064f2a32304c22b7582e
+  - enabled: 1
+    path: Assets/Scenes/Bedroom/Bedroom.unity
+    guid: ddd9175b4e9143542b10ab2e1b18df46
+  - enabled: 1
+    path: Assets/Scenes/Entrance School/SchoolEntrance.unity
+    guid: bffb968cdc45d0c4eab3aa5a2b0cafd8
+  - enabled: 1
+    path: Assets/Scenes/Library/library.unity
+    guid: ed5d69aa2929bc54186fbdbede44f512
+  - enabled: 1
+    path: Assets/Scenes/PotionLab/PotionLab.unity
+    guid: d31d2c9b53b7ff8599540ad7e40b7906
+  - enabled: 1
+    path: Assets/Scenes/TheoryClass/TheoryClass.unity
+    guid: afbafa508df46a72e873cf94500a8c45
+  - enabled: 1
+    path: Assets/Scenes/Wc/Wc.unity
+    guid: 5c93d045ef3b2234eb02857aa6303164
+  - enabled: 1
+    path: Assets/Scenes/Lockpicking/Lockpicking.unity
+    guid: ee534ad7a52b9f145ab427142e37702c
+  - enabled: 1
+    path: Assets/Scenes/Ap_basement/apBasement.unity
+    guid: ce12234ad64a5ac418d8eed8458eec66
+  - enabled: 1
+    path: Assets/Scenes/Ap_school inside/apSchoolInside.unity
+    guid: 06aa6015b5655bb4db4bc1a5c58b0931
+  - enabled: 1
+    path: Assets/Scenes/Ap_Wc/apWc.unity
+    guid: 66a8f40900fffac44ac0125b4c9d301f
+  - enabled: 1
+    path: Assets/Scenes/Ap_theory class/apTheoryClass.unity
+    guid: da65bbfa8ec44ef4ca694b9fc0dfdd28
+  - enabled: 1
+    path: Assets/Scenes/Ap_potion lab/apPotionLab.unity
+    guid: 69697c29d4b9e9d4a8b6ead4b21784bc
+  - enabled: 1
+    path: Assets/Scenes/WC_Vision/Wc_Vision.unity
+    guid: 89fef2b4802720048b4043919a4433c0
+  - enabled: 1
+    path: Assets/Scenes/Ap_bedroom/apBedroom.unity
+    guid: 06a1c2f00ec371c408c0d1d2d7031827
+  - enabled: 1
+    path: Assets/Scenes/Ap_lib/ApLibrary.unity
+    guid: dccd80073af66024183ab4cb432b2fb9
+  - enabled: 1
+    path: Assets/Scenes/Ap_entrance exterior/ApSchoolEntrance.unity
+    guid: 8db568f58aa9ad94d849a5a44488a647
+  - enabled: 1
+    path: Assets/Scenes/EndCredits/EndCredits.unity
+    guid: 9224e2df71812ad0a916706b7f9edb6a
+  m_configObjects: {}
