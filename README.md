@@ -1,6 +1,6 @@
 # The Seal of Velgrath
 <div align="center">
-In a peaceful and magical world, follow the journey of a curious student as he stumbles upon an ancient mystery. Help him put the pieces together and uncover the secrets of a long-buried power.
+In a peaceful and magical world, follow the journey of a curious student as he stumbles upon an ancient mystery. Help him put the pieces together and uncover the secrets of a long-buried power.</br>
 But be careful… as every secret has its price…
 </div>
 
