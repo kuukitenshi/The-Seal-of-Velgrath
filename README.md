@@ -29,7 +29,7 @@ Press ```Alt + F4``` to close and restart the game locally, or ```refresh the br
 
 
 ## Download
-In the ```/download_builds``` folder, download the zip file corresponding to your operating system. After downloading, unzip the file and follow the instructions in the ```README.md``` file inside.
+On the GitHub releases page, download the zip file for your operating system. Then, unzip the file and follow the instructions in the```README.md``` file.
 
 Alternatively, you can <a href= "https://kuukitenshi.github.io/The-Seal-of-Velgrath/" > run the game directly in your browser. </a> 
 (For the best experience, play the browser demo in full screen.)
