@@ -11,7 +11,7 @@ The Seal of Velgrath is a **2D, top-down, single-player action-adventure prototy
 - Intriguing story
 - Interact with NPCs
 - Unlockable abilities
-- Open-world exploration
+- Open-world exploration and combat
 - Gameplay shifts between realities
 - Non-offensive skills only
 - Learn abilities throughout gameplay
