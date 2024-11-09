@@ -11,7 +11,7 @@ The Seal of Velgrath is a **2D, top-down, single-player action-adventure prototy
 - Intriguing story
 - Interact with NPCs
 - Unlockable abilities
-- Open world exploration
+- Open-world exploration
 - Gameplay shifts between realities
 - Non-offensive skills only
 - Learn abilities throughout gameplay
@@ -32,6 +32,7 @@ Alternatively, you can <a href= "https://kuukitenshi.github.io/The-Seal-of-Velgr
 (For the best experience, play the browser demo in full screen.)
 
 ## Developers
+Made in Unity by:
 - Laura Cunha
 - Rodrigo Correia
 - Martim Pereira
