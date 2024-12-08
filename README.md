@@ -23,7 +23,7 @@ The Seal of Velgrath is a **2D, top-down, single-player action-adventure prototy
 
 ## Controls:
 - ```WASD``` - Movement 
-- ```E``` - Intereact
+- ```E``` - Interact
 
 Press ```Alt + F4``` to close and restart the game locally, or ```refresh the browser``` window to restart if you're playing in a web browser.
 
